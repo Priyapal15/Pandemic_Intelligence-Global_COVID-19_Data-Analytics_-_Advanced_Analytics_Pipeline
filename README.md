@@ -28,6 +28,7 @@ This project simulates a real-world data analytics workflow used in public healt
 
 Data Pipeline Overview
 
+
 1️⃣ Data Collection
 
 Automated dataset downloading using download_data.py
@@ -35,6 +36,7 @@ Automated dataset downloading using download_data.py
 Structured ingestion of global COVID case data
 
 Integration with World Bank socioeconomic indicators
+
 
 2️⃣ Feature Engineering
 
