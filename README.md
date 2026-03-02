@@ -148,7 +148,6 @@ Custom Feature Engineering Modules
 Basic Testing Framework
 
 
-
 **🧠 Key Skills Demonstrated**
 
 ✔ Data Wrangling 
@@ -161,7 +160,6 @@ Basic Testing Framework
 ✔ Modular Code Architecture 
 ✔ Reproducible Data Pipelines 
 ✔ Analytical Thinking
-
 
 
 **📈 Sample Insights Generated**
